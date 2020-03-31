@@ -25,3 +25,5 @@ If the database has changed, it'll print out the new version of ``robot_useragen
 ## Tests
 
 Some simple unittests are included. Running the ``tests.py`` file will run the tests.
+
+test
